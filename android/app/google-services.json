@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423897956287",
+    "project_id": "foodzeria-d0255",
+    "storage_bucket": "foodzeria-d0255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423897956287:android:c285a94c3d09c82e5d6b0a",
+        "android_client_info": {
+          "package_name": "com.example.foodzeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423897956287-ibt988t083c0eurkpdc63lt3icami0bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6jGF9hJpQtRjIExEPKsqvKtr6_bPZTW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423897956287-ibt988t083c0eurkpdc63lt3icami0bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
